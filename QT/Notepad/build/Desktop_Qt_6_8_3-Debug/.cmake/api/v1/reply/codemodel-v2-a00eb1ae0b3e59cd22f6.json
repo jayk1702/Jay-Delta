@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-0b93c1085e095ee4fa37.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Notepad",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Notepad::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Notepad-Debug-9a0e59c919ef657a3cda.json",
+					"name" : "Notepad",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Notepad_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Notepad_autogen-Debug-9e7a3753596f5d5408ec.json",
+					"name" : "Notepad_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Notepad_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Notepad_autogen_timestamp_deps-Debug-be8e5419641aecd4039d.json",
+					"name" : "Notepad_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/dtiot-2024/Notepad/build/Desktop_Qt_6_8_3-Debug",
+		"source" : "/home/dtiot-2024/Notepad"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
