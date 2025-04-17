@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a3277d2496e7163aa73f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "signUp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "signUp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-signUp-Debug-89de1d379b9a0b80449a.json",
+					"name" : "signUp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "signUp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-signUp_autogen-Debug-9d34346e6146c758a939.json",
+					"name" : "signUp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "signUp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-signUp_autogen_timestamp_deps-Debug-2923f329e05b9fbc7cc0.json",
+					"name" : "signUp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/dtiot-2024/signUp/build/Desktop_Qt_6_8_3-Debug",
+		"source" : "/home/dtiot-2024/signUp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
