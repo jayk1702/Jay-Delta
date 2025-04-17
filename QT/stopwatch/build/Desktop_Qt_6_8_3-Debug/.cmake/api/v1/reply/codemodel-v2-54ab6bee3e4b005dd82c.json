@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-193c448670c90b8d8371.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "stopwatch",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "stopwatch::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stopwatch-Debug-763e1d8cb7c5cd67167c.json",
+					"name" : "stopwatch",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stopwatch_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stopwatch_autogen-Debug-75443cb04244daf181f8.json",
+					"name" : "stopwatch_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stopwatch_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stopwatch_autogen_timestamp_deps-Debug-b6aee6269da91d4594ae.json",
+					"name" : "stopwatch_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/dtiot-2024/Jay /QT/stopwatch/build/Desktop_Qt_6_8_3-Debug",
+		"source" : "/home/dtiot-2024/Jay /QT/stopwatch"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

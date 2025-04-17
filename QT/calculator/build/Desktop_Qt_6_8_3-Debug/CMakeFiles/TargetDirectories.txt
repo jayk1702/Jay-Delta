@@ -1,0 +1,9 @@
+/home/dtiot-2024/Jay /QT/calculator/build/Desktop_Qt_6_8_3-Debug/CMakeFiles/calculator.dir
+/home/dtiot-2024/Jay /QT/calculator/build/Desktop_Qt_6_8_3-Debug/CMakeFiles/edit_cache.dir
+/home/dtiot-2024/Jay /QT/calculator/build/Desktop_Qt_6_8_3-Debug/CMakeFiles/rebuild_cache.dir
+/home/dtiot-2024/Jay /QT/calculator/build/Desktop_Qt_6_8_3-Debug/CMakeFiles/list_install_components.dir
+/home/dtiot-2024/Jay /QT/calculator/build/Desktop_Qt_6_8_3-Debug/CMakeFiles/install.dir
+/home/dtiot-2024/Jay /QT/calculator/build/Desktop_Qt_6_8_3-Debug/CMakeFiles/install/local.dir
+/home/dtiot-2024/Jay /QT/calculator/build/Desktop_Qt_6_8_3-Debug/CMakeFiles/install/strip.dir
+/home/dtiot-2024/Jay /QT/calculator/build/Desktop_Qt_6_8_3-Debug/CMakeFiles/calculator_autogen_timestamp_deps.dir
+/home/dtiot-2024/Jay /QT/calculator/build/Desktop_Qt_6_8_3-Debug/CMakeFiles/calculator_autogen.dir
