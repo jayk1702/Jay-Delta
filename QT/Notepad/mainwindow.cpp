@@ -11,6 +11,12 @@ MainWindow::MainWindow(QWidget *parent)
     connect(ui->actionOpen, &QAction::triggered, this, &MainWindow::onActionOpen);
     connect(ui->actionSave, &QAction::triggered, this, &MainWindow::onActionSave);
     connect(ui->actionSave_As, &QAction::triggered, this, &MainWindow::onActionSaveAs);
+    connect(ui->actionCut, &QAction::triggered, this, &MainWindow::onActionCut);
+    connect(ui->actionCopy, &QAction::triggered, this, &MainWindow::onActionCopy);
+    connect(ui->actionPaste, &QAction::triggered, this, &MainWindow::onActionPaste);
+    connect(ui->actionRedo, &QAction::triggered, this, &MainWindow::onActionRedo);
+    connect(ui->actionUndo, &QAction::triggered, this, &MainWindow::onActionUndo);
+
 }
 
 MainWindow::~MainWindow()
@@ -117,25 +123,25 @@ void MainWindow::onActionSaveAs()
 
 void MainWindow::onActionCut()
 {
-
+    ui->textEdit->cut();
 }
 
 void MainWindow::onActionCopy()
 {
-
+    ui->textEdit->copy();
 }
 
 void MainWindow::onActionPaste()
 {
-
+    ui->textEdit->paste();
 }
 
 void MainWindow::onActionRedo()
 {
-
+    ui->textEdit->redo();
 }
 
 void MainWindow::onActionUndo()
 {
-
+    ui->textEdit->undo();
 }
